@@ -18,3 +18,4 @@ function logNameFromInterface(obj: objectWithName) {
 test(5)
 
 export const testFn = test
+console.log('nINA')
