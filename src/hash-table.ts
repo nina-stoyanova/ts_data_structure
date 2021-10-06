@@ -1,5 +1,5 @@
 export class HashTable {
-    _data: any[]
+    private _data: any[]
 
     constructor() {
         this._data = [];
